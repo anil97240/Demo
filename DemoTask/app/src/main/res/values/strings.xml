@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">CAR MODEL</string>
+    <string name="txt_home_search">Find Cars</string>
+    <string name="filter_cars">FILTER CARS</string>
+    <string name="odd_even">ODD/EVEN</string>
+    <string name="year">YEAR</string>
+    <string name="odd">ODD</string>
+    <string name="even">EVEN</string>
+    <string name="rest">REST</string>
+    <string name="apply">APPLY</string>
+    <string name="_2002">2002</string>
+    <string name="fix_price_range">Fix Price Range</string>
+    <string name="price">PRICE</string>
+    <string name="closeimage">closeImage</string>
+    <string name="car_id">Car Id:</string>
+    <string name="car_model">Car Model:</string>
+    <string name="car_name">Car Name:</string>
+    <string name="car_model_year">Car Model Year:</string>
+    <string name="car_vin">Car Vin:</string>
+    <string name="car_price">Car Price:</string>
+    <string name="car_available">Car Available:</string>
+    <string name="str_todo">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="no_data_found">No Data Found</string>
+
+</resources>
